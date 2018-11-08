@@ -93,8 +93,8 @@ canvas {
     overflow: hidden;
     position: absolute;
     float: right;
-    margin: 102px 0px 0px 394px;
-    width: 285px;
+    margin: 66px 0px 0px 394px;
+    width: 336px;
     z-index: 1;
 }
 .SpeechBubble img{
@@ -108,7 +108,7 @@ canvas {
 .BlueDude img{
     width: 135px;
     position: absolute;
-    margin:153px 0 0 644px;
+    margin:153px 0 0 689px;
     z-index: 9;
 }
 .Coins img{
@@ -152,8 +152,8 @@ canvas {
 }
 
 input{
- width: 100%;
- margin-left: -122px;
+ width: 167%;
+ margin-left: -155px;
  margin-top: 20px;
  border: 1px solid black;
  font-size: 12px;
